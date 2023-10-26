@@ -1,0 +1,7 @@
+[project]
+authors = ["Luiz Estacio"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "test-contract"
+
+[dependencies]
